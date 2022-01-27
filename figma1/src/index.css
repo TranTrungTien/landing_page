@@ -1,0 +1,14 @@
+:root {
+  --primary_family: "Orbitron", sans-serif;
+  --second_family: "Open Sans", sans-serif;
+  --primary_color: #ff7448;
+  --second_color: #ffa114;
+}
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
