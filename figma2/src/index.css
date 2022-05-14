@@ -1,0 +1,35 @@
+:root {
+  --primary-color: #ee9591;
+  --background-color: #fef8f8;
+  --primary-font: "Roboto", sans-serif;
+  --text-primary-color: #555555;
+  --text-second-color: #888888;
+}
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+img {
+  display: block;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.App {
+  max-width: 1440px;
+  height: auto;
+  overflow: hidden;
+  margin: 0 auto;
+}
